@@ -2005,3 +2005,9 @@ body {
 
 
   /* new seccions */
+
+  .img-top{
+    width: 350px;
+    height: auto;
+    margin-bottom: 20px;
+  }
